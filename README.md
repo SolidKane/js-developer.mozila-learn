@@ -1,1 +1,1 @@
-# js-developer.mozila-learn
+# js developer.mozila learn
